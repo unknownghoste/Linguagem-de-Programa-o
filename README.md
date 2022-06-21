@@ -1,2 +1,2 @@
 # Linguagem-de-Programa-o
-História da linguagem de programação Python
+Projeto prático GitHub - Linguagem de programação JavaScript
